@@ -20,15 +20,9 @@ If you're here, you’re probably building something. Good — so are we.
 ## 🧰 Core Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Lucide_React-FF4154?logo=lucide&logoColor=white&style=for-the-badge" alt="Lucide"/>
-  <img src="https://img.shields.io/badge/Lottie_Animations-00D1B2?style=for-the-badge" alt="Lottie"/>
-</p>
-<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
 </p>
 
 ---
