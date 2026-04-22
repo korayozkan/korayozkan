@@ -24,14 +24,3 @@ If you're here, you’re probably building something. Good — so are we.
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 </p>
-
----
-
-## 🎨 Tools I Use
-<p align="left">
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-FF6F00?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OBS_Studio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-6A0DAD?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wisecut-FF7B72?style=for-the-badge"/>
-</p>
