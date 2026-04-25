@@ -6,9 +6,7 @@
 ## 🚀 What is kiruhi?
 A playground for:
 - fast coding  
-- smart automation  
 - real AI experiments  
-- tools that actually make money  
 - project-based learning  
 
 If you're here, you’re probably building something. Good — so are we.
