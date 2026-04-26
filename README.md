@@ -9,14 +9,13 @@
 - 🌿 Pure Minimalism
 - 🚀 Driven by Speed
 
+<p align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkan&layout=compact&bg_color=0d1117&border_color=0d1117&text_color=79ff97&langs_count=12&hide=php,ejs,hack">
 
+  <a href="https://github.com/korayozkan/github-readme-stats">
+    <img width="64%" alt="Koray Ozkan Github Stats"
+      src="https://github-readme-stats.vercel.app/api?username=korayozkan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
 
-## 🧰 Core Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+  <br><br>
 </p>
-
-
