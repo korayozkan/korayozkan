@@ -8,8 +8,6 @@
 - 🛠️ Building Kiruhi OS
 - 🌿 Pure Minimalism
 - 🚀 Driven by Speed
-
-<p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkan&layout=compact&bg_color=0d1117&border_color=0d1117&text_color=79ff97&langs_count=12&hide=php,ejs,hack">
-  <br><br>
-</p>
+<div align="left">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkan&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</div>
