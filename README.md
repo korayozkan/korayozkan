@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 </p>
 
+---
+
 <p align="center">
   <a href="mailto:kosanme@proton.me">
     <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" />
