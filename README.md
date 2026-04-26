@@ -3,13 +3,10 @@
   <img src="https://media.discordapp.net/attachments/1338146747611877485/1449577578053767249/bcTqXvj.jpg?ex=693f67d2&is=693e1652&hm=e61d7512cbaf04a0484b21acf1fd206a68d4afe3af01bcb34413be6d13e86e26&=&format=png" width="100%" alt="Kiruhi YouTube Banner"/>
 </p>
 
-## 🚀 What is kiruhi?
-A playground for:
-- fast coding  
-- real AI experiments  
-- project-based learning  
-
-If you're here, you’re probably building something. Good — so are we.
+### 🧠 About Me
+- 💡 Interested in software & technology  
+- ⚡ Love building and experimenting  
+- 🌍 Open to new opportunities  
 
 ---
 
