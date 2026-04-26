@@ -4,9 +4,7 @@
 </p>
 
 ### 🧠 About Me
-- 💡 Interested in software & technology  
-- ⚡ Love building and experimenting  
-- 🌍 Open to new opportunities  
+
 
 
 
@@ -18,4 +16,10 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
+</p>
+
+<p align="center">
+  <a href="mailto:kosanme@proton.me">
+    <img src="https://img.shields.io/badge/Contact-Email-red?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
