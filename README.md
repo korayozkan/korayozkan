@@ -5,7 +5,7 @@
 
 ### 🧠 About Me
 
-- 🛠️ Building Kiruhi OS
+- 💻 Frontend Developer
 - 🌿 Pure Minimalism
 - 🚀 Driven by Speed
 
