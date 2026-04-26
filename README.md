@@ -10,4 +10,5 @@
 - 🚀 Driven by Speed
 <div align="left">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkan&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korayozkan&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
