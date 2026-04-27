@@ -2,7 +2,9 @@
 <p align="center">
   <img src="./channels4_banner.jpg" width="100%" alt="Kiruhi YouTube Banner"/>
 </p>
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=korayozkan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</div>
 ### 🧠 About Me
 
 - 💻 Frontend Developer
