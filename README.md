@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 - 💻 Frontend Developer
-- Zübeyde Hanım Vocational & Technical High School 2023 — 2028 Information Technology Major (10th Grade)
+-  🌿 Pure Minimalism
 - 🚀 Driven by Speed
 
 ---
