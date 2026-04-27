@@ -5,25 +5,10 @@
 
 ---
 
-<div style="display:flex; justify-content:space-between; align-items:flex-start;">
-
-  <!-- LEFT: ABOUT -->
-  <div>
-    <h3>🧠 About Me</h3>
-
-    <ul>
-      <li>💻 Frontend Developer</li>
-      <li>🌿 Pure Minimalism</li>
-      <li>🚀 Driven by Speed</li>
-    </ul>
-  </div>
-
-  <!-- RIGHT: VIEWS -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=korayozkan&label=Profile%20Views&color=8a2be2&style=flat-square" />
-  </div>
-
-</div>
+### 🧠 About Me 
+- 💻 Frontend Developer
+- 🌿 Pure Minimalism
+-🚀 Driven by Speed
 
 ---
 
