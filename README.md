@@ -15,7 +15,7 @@
 <ul>
   <li><a href="https://github.com/korayozkan/HTML">HTML  Notları</a></li>
     <li><a href="https://github.com/korayozkan/matematik">Matematik Notları </a></li>
-    <li><a href="https://github.com/korayozkan/matematik">İngilizce Notları </a></li>
+    <li><a href="https://github.com/korayozkan/Ingilizce">İngilizce Notları </a></li>
 
   <li><a href="https://github.com/korayozkan/Python">Python Çalışmaları</a></li>
   <li><a href="https://github.com/korayozkan/Go">Go Çalışmaları</a></li>
