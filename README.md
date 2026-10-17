@@ -1,15 +1,4 @@
-<h3>Hakkımda</h3>
 
-<ul>
-  <li>Zübeyde Hanım Mesleki ve Teknik Anadolu Lisesi 11. sınıf öğrencisiyim.</li>
-  <li>React Native öğreniyorum.</li>
-  <li>Öğrendiğim konuları ve pratikleri not alarak belgeliyorum.</li>
-</ul>
-
-<hr>
-
-
-<hr>
 
 <div align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=korayozkan&show_icons=true&theme=dark&hide_border=true&title_color=a855f7&text_color=a855f7&icon_color=a855f7" />
