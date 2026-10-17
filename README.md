@@ -8,25 +8,6 @@
 
 <hr>
 
-<h3>Katıldığım Etkinlikler ve Yarışmalar</h3>
-
-<ul>
-  <li><b>TÜBİTAK Araştırma Projeleri Yarışması:</b> Engelsiz park yeri projesi ile il/bölge derecesi (2.'lik).</li>
-  <li><b>TEKNOFEST:</b> Teknoloji yarışmaları ve proje sunum süreçleri katılımı.</li>
-</ul>
-
-<hr>
-
-<h3>Notlar ve Çalışmalar</h3>
-
-<ul>
-  <li><a href="https://github.com/korayozkan/HTML">HTML Notları</a></li>
-  <li><a href="https://github.com/korayozkan/android-java">Android Java Notları</a></li>
-  <li><a href="https://github.com/korayozkan/matematik">Matematik Notları</a></li>
-  <li><a href="https://github.com/korayozkan/Ingilizce">İngilizce Notları</a></li>
-  <li><a href="https://github.com/korayozkan/Python">Python Çalışmaları</a></li>
-  <li><a href="https://github.com/korayozkan/Go">Go Çalışmaları</a></li>
-</ul>
 
 <hr>
 
